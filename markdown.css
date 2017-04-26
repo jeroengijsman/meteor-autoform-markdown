@@ -25,7 +25,7 @@
   width: auto;
   display: inline-block;
 }
-.markdownControls select, button {
+.markdownControls select, .markdownControls button {
   margin-right: 10px;
 }
 .markdownControls button.markdownBold {
